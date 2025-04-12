@@ -1,0 +1,465 @@
+{
+  "Territory 1": {
+    "Florida": {
+      "Unarmed": 29.5,
+      "Armed": 50,
+      "Firewatch": 35,
+      "Body Guard Unarmed": 60,
+      "Body Guard Armed": 75,
+      "Body Guard with Suit": 85,
+      "Employee Termination": 125
+      
+    },
+    "Georgia": {
+      "Unarmed": 29.5,
+      "Armed": 50,
+      "Firewatch": 35,
+      "Body Guard Unarmed": 60,
+      "Body Guard Armed": 75,
+      "Body Guard with Suit":85,
+      "Employee Termination": 125
+    },
+    "Alabama": {
+      "Unarmed": 29.5,
+      "Armed": 50,
+      "Firewatch": 35,
+      "Body Guard Unarmed": 60,
+      "Body Guard Armed": 75,
+      "Body Guard with Suit": 85,
+      "Employee Termination": 125
+    },
+    "Mississippi": {
+      "Unarmed": 29.5,
+      "Armed": 50,
+      "Firewatch": 35,
+      "Body Guard Unarmed": 60,
+      "Body Guard Armed": 75,
+      "Body Guard with Suit": 85,
+      "Employee Termination": 125
+    },
+    "Tennessee": {
+      "Unarmed": 29.5,
+      "Armed": 50,
+      "Firewatch": 35,
+      "Body Guard Unarmed": 60,
+      "Body Guard Armed": 75,
+      "Body Guard with Suit": 85,
+      "Employee Termination": 125
+    },
+    "Kentucky": {
+      "Unarmed": 29.5,
+      "Armed": 50,
+      "Firewatch": 35,
+      "Body Guard Unarmed": 60,
+      "Body Guard Armed": 75,
+      "Body Guard with Suit": 85,
+      "Employee Termination": 125
+    },
+    "Virginia": {
+      "Unarmed": 29.5,
+      "Armed": 50,
+      "Firewatch": 35,
+      "Body Guard Unarmed": 60,
+      "Body Guard Armed": 75,
+      "Body Guard with Suit": 85,
+      "Employee Termination": 125
+    },
+    "North Carolina": {
+      "Unarmed": 29.5,
+      "Armed": 50,
+      "Firewatch": 35,
+      "Body Guard Unarmed": 60,
+      "Body Guard Armed": 75,
+      "Body Guard with Suit": 85,
+      "Employee Termination": 125
+    },
+    "South Carolina": {
+      "Unarmed": 29.5,
+      "Armed": 50,
+      "Firewatch": 35,
+      "Body Guard Unarmed": 60,
+      "Body Guard Armed": 75,
+      "Body Guard with Suit": 85,
+      "Employee Termination": 125
+    }
+  },
+  "Territory 2": {
+    "Texas": {
+      "Unarmed": 29.5,
+      "Armed": 50,
+      "Firewatch": 35,
+      "Body Guard Unarmed": 60,
+      "Body Guard Armed": 75,
+      "Body Guard with Suit": 85,
+      "Employee Termination": 125
+    },
+    "Oklahoma": {
+      "Unarmed": 29.5,
+      "Armed": 50,
+      "Firewatch": 35,
+      "Body Guard Unarmed": 60,
+      "Body Guard Armed": 75,
+      "Body Guard with Suit": 85,
+      "Employee Termination": 125
+    },
+    "Kansas": {
+      "Unarmed": 29.5,
+      "Armed": 50,
+      "Firewatch": 35,
+      "Body Guard Unarmed": 60,
+      "Body Guard Armed": 75,
+      "Body Guard with Suit":85,
+      "Employee Termination": 125
+    },
+    "Missouri": {
+      "Unarmed": 60,
+      "Armed": 90,
+      "Firewatch": 65,
+      "Body Guard Unarmed": 105,
+      "Body Guard Armed": 115,
+      "Body Guard with Suit": 125,
+      "Employee Termination": 125
+    },
+    "Arkansas": {
+      "Unarmed": 29.5,
+      "Armed": 50,
+      "Firewatch": 35,
+      "Body Guard Unarmed": 60,
+      "Body Guard Armed": 75,
+      "Body Guard with Suit": 85,
+      "Employee Termination": 125
+    },
+    "Louisiana": {
+      "Unarmed": 29.5,
+      "Armed": 50,
+      "Firewatch": 35,
+      "Body Guard Unarmed": 60,
+      "Body Guard Armed": 75,
+      "Body Guard with Suit": 85,
+      "Employee Termination": 125
+    }
+  },
+  "Territory 3": {
+    "Southern California": {
+      "Unarmed": 35.5,
+      "Armed": 60,
+      "Firewatch": 45,
+      "Body Guard Unarmed": 60,
+      "Body Guard Armed": 75,
+      "Body Guard with Suit": 85,
+      "Employee Termination": 125
+    },
+    "Central California": {
+      "Unarmed": 35.5,
+      "Armed": 60,
+      "Firewatch": 45,
+      "Body Guard Unarmed": 60,
+      "Body Guard Armed": 75,
+      "Body Guard with Suit": 85,
+      "Employee Termination": 125
+    },
+    "Nevada": {
+      "Unarmed": 50,
+      "Armed": 75,
+      "Firewatch": 55,
+      "Body Guard Unarmed": 85,
+      "Body Guard Armed": 95,
+      "Body Guard with Suit": 105,
+      "Employee Termination": 125
+    },
+    "Utah": {
+      "Unarmed": 50,
+      "Armed": 75,
+      "Firewatch": 55,
+      "Body Guard Unarmed": 85,
+      "Body Guard Armed": 100,
+      "Body Guard with Suit": 110,
+      "Employee Termination": 125
+    },
+    "Colorado": {
+      "Unarmed": 50,
+      "Armed": 75,
+      "Firewatch": 55,
+      "Body Guard Unarmed": 85,
+      "Body Guard Armed": 100,
+      "Body Guard with Suit": 110,
+      "Employee Termination": 125
+    },
+    "New Mexico": {
+      "Unarmed": 55,
+      "Armed": 80,
+      "Firewatch": 60,
+      "Body Guard Unarmed": 95,
+      "Body Guard Armed": 105,
+      "Body Guard with Suit": 115,
+      "Employee Termination": 125
+    },
+    "Arizona": {
+      "Unarmed": 50,
+      "Armed": 70,
+      "Firewatch": 55,
+      "Body Guard Unarmed": 85,
+      "Body Guard Armed": 105,
+      "Body Guard with Suit": 115,
+      "Employee Termination": 125
+    }
+  },
+  "Territory 4": {
+    "Northern California": {
+      "Unarmed": 50,
+      "Armed": 75,
+      "Firewatch": 55,
+      "Body Guard Unarmed": 85,
+      "Body Guard Armed": 95,
+      "Body Guard with Suit": 105,
+      "Employee Termination": 125
+    },
+    "Oregon": {
+      "Unarmed": 50,
+      "Armed": 75,
+      "Firewatch": 55,
+      "Body Guard Unarmed": 85,
+      "Body Guard Armed": 95,
+      "Body Guard with Suit": 105,
+      "Employee Termination": 125
+    },
+    "Washington": {
+      "Unarmed": 40,
+      "Armed": 60,
+      "Firewatch": 55,
+      "Body Guard Unarmed": 85,
+      "Body Guard Armed": 95,
+      "Body Guard with Suit": 105,
+      "Employee Termination": 125
+    },
+    "Idaho": {
+      "Unarmed": 65,
+      "Armed": 95,
+      "Firewatch": 70,
+      "Body Guard Unarmed": 110,
+      "Body Guard Armed": 120,
+      "Body Guard with Suit": 130,
+      "Employee Termination": 125
+    },
+    "Montana": {
+      "Unarmed": 65,
+      "Armed": 95,
+      "Firewatch": 70,
+      "Body Guard Unarmed": 110,
+      "Body Guard Armed": 120,
+      "Body Guard with Suit": 130,
+      "Employee Termination": 125
+    },
+    "Wyoming": {
+      "Unarmed": 65,
+      "Armed": 95,
+      "Firewatch": 70,
+      "Body Guard Unarmed": 110,
+      "Body Guard Armed": 120,
+      "Body Guard with Suit": 130,
+      "Employee Termination": 125
+    }
+  },
+  "Territory 5": {
+    "Illinois": {
+      "Unarmed": 50,
+      "Armed": 70,
+      "Firewatch": 55,
+      "Body Guard Unarmed": 85,
+      "Body Guard Armed": 95,
+      "Body Guard with Suit": 105,
+      "Employee Termination": 125
+    },
+    "Iowa": {
+      "Unarmed": 65,
+      "Armed": 95,
+      "Firewatch": 70,
+      "Body Guard Unarmed": 110,
+      "Body Guard Armed": 120,
+      "Body Guard with Suit": 130,
+      "Employee Termination": 125
+    },
+    "Nebraska": {
+      "Unarmed": 65,
+      "Armed": 95,
+      "Firewatch": 70,
+      "Body Guard Unarmed": 110,
+      "Body Guard Armed": 120,
+      "Body Guard with Suit": 130,
+      "Employee Termination": 125
+    },
+    "South Dakota": {
+      "Unarmed": 65,
+      "Armed": 95,
+      "Firewatch": 70,
+      "Body Guard Unarmed": 110,
+      "Body Guard Armed": 120,
+      "Body Guard with Suit": 130,
+      "Employee Termination": 125
+    },
+    "North Dakota": {
+      "Unarmed": 65,
+      "Armed": 95,
+      "Firewatch": 70,
+      "Body Guard Unarmed": 110,
+      "Body Guard Armed": 120,
+      "Body Guard with Suit": 130,
+      "Employee Termination": 125
+    },
+    "Minnesota": {
+      "Unarmed": 50,
+      "Armed": 70,
+      "Firewatch": 55,
+      "Body Guard Unarmed": 85,
+      "Body Guard Armed": 95,
+      "Body Guard with Suit": 105,
+      "Employee Termination": 125
+    },
+    "Wisconsin": {
+      "Unarmed": 50,
+      "Armed": 70,
+      "Firewatch": 55,
+      "Body Guard Unarmed": 85,
+      "Body Guard Armed": 95,
+      "Body Guard with Suit": 105,
+      "Employee Termination": 125
+    },
+    "Michigan": {
+      "Unarmed": 50,
+      "Armed": 70,
+      "Firewatch": 55,
+      "Body Guard Unarmed": 85,
+      "Body Guard Armed": 95,
+      "Body Guard with Suit": 105,
+      "Employee Termination": 125
+    },
+    "Indiana": {
+      "Unarmed": 50,
+      "Armed": 70,
+      "Firewatch": 55,
+      "Body Guard Unarmed": 85,
+      "Body Guard Armed": 95,
+      "Body Guard with Suit": 105,
+      "Employee Termination": 125
+    }
+  },
+  "Territory 6": {
+    "New York": {
+      "Unarmed": 30,
+      "Armed": 75,
+      "Firewatch": 45,
+      "Body Guard Unarmed": 85,
+      "Body Guard Armed": 100,
+      "Body Guard with Suit": 110,
+      "Employee Termination": 125
+    },
+    "New Jersey": {
+      "Unarmed": 30,
+      "Armed": 75,
+      "Firewatch": 45,
+      "Body Guard Unarmed": 85,
+      "Body Guard Armed": 100,
+      "Body Guard with Suit": 110,
+      "Employee Termination": 125
+    },
+    "Delaware": {
+      "Unarmed": 65,
+      "Armed": 95,
+      "Firewatch": 70,
+      "Body Guard Unarmed": 110,
+      "Body Guard Armed": 120,
+      "Body Guard with Suit": 130,
+      "Employee Termination": 125
+    },
+    "Pennsylvania": {
+      "Unarmed": 40,
+      "Armed": 60,
+      "Firewatch": 55,
+      "Body Guard Unarmed": 85,
+      "Body Guard Armed": 95,
+      "Body Guard with Suit": 105,
+      "Employee Termination": 125
+    },
+    "Washington DC": {
+      "Unarmed": 40,
+      "Armed": 60,
+      "Firewatch": 55,
+      "Body Guard Unarmed": 85,
+      "Body Guard Armed": 95,
+      "Body Guard with Suit": 105,
+      "Employee Termination": 125
+    },
+    "Maryland": {
+      "Unarmed": 40,
+      "Armed": 60,
+      "Firewatch": 55,
+      "Body Guard Unarmed": 85,
+      "Body Guard Armed": 95,
+      "Body Guard with Suit": 105,
+      "Employee Termination": 125
+    },
+    "West Virginia": {
+      "Unarmed": 40,
+      "Armed": 60,
+      "Firewatch": 55,
+      "Body Guard Unarmed": 85,
+      "Body Guard Armed": 95,
+      "Body Guard with Suit": 105,
+      "Employee Termination": 125
+    },
+    "Ohio": {
+      "Unarmed": 40,
+      "Armed": 60,
+      "Firewatch": 55,
+      "Body Guard Unarmed": 85,
+      "Body Guard Armed": 95,
+      "Body Guard with Suit": 105,
+      "Employee Termination": 125
+    },
+    "Connecticut": {
+      "Unarmed": 65,
+      "Armed": 95,
+      "Firewatch": 70,
+      "Body Guard Unarmed": 110,
+      "Body Guard Armed": 120,
+      "Body Guard with Suit": 130,
+      "Employee Termination": 125
+    },
+    "Rhode Island": {
+      "Unarmed": 65,
+      "Armed": 95,
+      "Firewatch": 70,
+      "Body Guard Unarmed": 110,
+      "Body Guard Armed": 120,
+      "Body Guard with Suit": 130,
+      "Employee Termination": 125
+    },
+    "Massachusetts": {
+      "Unarmed": 40,
+      "Armed": 60,
+      "Firewatch": 55,
+      "Body Guard Unarmed": 85,
+      "Body Guard Armed": 95,
+      "Body Guard with Suit": 105,
+      "Employee Termination": 125
+    },
+    "New Hampshire": {
+      "Unarmed": 65,
+      "Armed": 95,
+      "Firewatch": 70,
+      "Body Guard Unarmed": 110,
+      "Body Guard Armed": 120,
+      "Body Guard with Suit": 130,
+      "Employee Termination": 125
+    },
+    "Vermont": {
+      "Unarmed": 65,
+      "Armed": 95,
+      "Firewatch": 70,
+      "Body Guard Unarmed": 110,
+      "Body Guard Armed": 120,
+      "Body Guard with Suit": 130,
+      "Employee Termination": 125
+    }
+  }
+}

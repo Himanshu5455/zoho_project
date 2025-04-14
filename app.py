@@ -57,6 +57,8 @@ def generate_invoice_number():
 print(generate_invoice_number())
 
 def save_to_database(record_id, email, lead_data, lead_status):
+
+    print('helllloooo#############################')
     """
     Save lead information to the database with Lead Status
     """

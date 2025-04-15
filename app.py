@@ -32,7 +32,10 @@ BACKEND_URL = os.getenv("BACKEND_URL")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 app = Flask(__name__)
-CORS(app)
+# CORS(app)
+CORS(app, resources={r"/*": {"origins": "*"}})
+
+
 
 # Configuration for Zoho API and database
 ZOHO_API_URL = "https://www.zohoapis.com/crm/v7/Leads"
